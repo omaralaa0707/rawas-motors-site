@@ -109,8 +109,7 @@ export const en: RawasContent = {
   },
 
   footer: {
-    disclaimer: "A concept design, built as a demonstration. Not an official El Rawas Motors site and not affiliated with them. All marks, figures and quoted copy belong to El Rawas Motors or their named sources; captions are quoted as published.",
-    rights: "Concept by Claude",
+    rights: "© El Rawas Motors. All rights reserved.",
   },
 
   a11y: {
